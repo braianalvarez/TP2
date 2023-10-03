@@ -1,0 +1,10 @@
+C:\Users\Braian\Documents\SharpDevelop Projects\TP 2\TP 2\bin\Debug\TP 2.exe
+C:\Users\Braian\Documents\SharpDevelop Projects\TP 2\TP 2\bin\Debug\TP 2.pdb
+C:\Users\Braian\Documents\SharpDevelop Projects\TP 2\TP 2\obj\Debug\TP 2.csprojResolveAssemblyReference.cache
+C:\Users\Braian\Documents\SharpDevelop Projects\TP 2\TP 2\obj\Debug\TP 2.exe
+C:\Users\Braian\Documents\SharpDevelop Projects\TP 2\TP 2\obj\Debug\TP 2.pdb
+C:\Users\Braian\repo\UNAJ\TP2\TP 2\bin\Debug\TP 2.exe
+C:\Users\Braian\repo\UNAJ\TP2\TP 2\bin\Debug\TP 2.pdb
+C:\Users\Braian\repo\UNAJ\TP2\TP 2\obj\Debug\TP 2.csprojResolveAssemblyReference.cache
+C:\Users\Braian\repo\UNAJ\TP2\TP 2\obj\Debug\TP 2.exe
+C:\Users\Braian\repo\UNAJ\TP2\TP 2\obj\Debug\TP 2.pdb
