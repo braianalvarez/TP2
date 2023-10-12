@@ -45,8 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArbolGeneral.cs" />
+    <Compile Include="ArbolBinario.cs" />
     <Compile Include="Cola.cs" />
+    <Compile Include="Heap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

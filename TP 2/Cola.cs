@@ -1,16 +1,9 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Braian
- * Date: 5/9/2023
- * Time: 20:16
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+﻿
 using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace TP_2
+namespace Clase_I_complijidad
 {
 	/// <summary>
 	/// Description of Cola.

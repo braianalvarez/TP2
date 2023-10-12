@@ -1,12 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Braian
- * Date: 3/10/2023
- * Time: 17:26
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 
 namespace TP_2
 {
@@ -14,12 +6,16 @@ namespace TP_2
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
-			ArbolGeneral<int> arbol =  new ArbolGeneral<int>(10);
-			// TODO: Implement Functionality Here
+			int [] listado = new int[] {150, 130, 25, 34, 20, 53, 18, 47, 19};
 			
-			Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
+			Heap a = new Heap();
+			int [] list = a.BuildHeapMin(listado);
+			
+			foreach (int b in list) {
+				Console.WriteLine(b);
+			}
+			
+ 			Console.ReadKey(true);
 		}
 	}
 }
